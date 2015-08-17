@@ -10,3 +10,6 @@ Testing branch
 Add new
 
 Another
+
+Some new text from another user
+
