@@ -1,15 +1,7 @@
 Repository for testing git features
 
-Hotfixed
+All cleared
 
-Main branch
-New line 1
+Tuesday changes
 
-Testing branch
-
-Add new
-
-Another
-
-Some new text from another user
-
+Test 1 added new features
